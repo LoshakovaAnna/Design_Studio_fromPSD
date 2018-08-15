@@ -192,11 +192,12 @@
     font-weight: bold;
     color:#555555;
     line-height: 18px;
-    margin-top: 7px;
+    margin-top: 6px;
 }
 .position{  
     font-weight: normal;
-    color:#00aeef;
+    color:#00aeef;  
+	line-height: 18px;
     text-decoration: none;
 }
 .title-client-test{
