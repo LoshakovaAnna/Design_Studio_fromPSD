@@ -36,8 +36,7 @@
     margin: 0px;  
 }
 
-.menu{
-    flex:4;  
+.menu{ 
     color: #eeeeee;
     font-size: 16px; 
 }
@@ -51,7 +50,8 @@
     list-style: none; 
     display:flex; 
     flex-direction: row;
-    vertical-align: bottom;     text-align: left;   
+    vertical-align: bottom;     
+    text-align: left;   
 }
 .href-discription{
     color: #eeeeee;    
